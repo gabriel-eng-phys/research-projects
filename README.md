@@ -6,7 +6,7 @@ Selected undergraduate research projects in physics.
 
 ### Waveform Analysis for Nuclear Astrophysics Experiments with TACTIC
 
-Summer research project on waveform analysis and detector characterisation using a μ-RWELL gaseous detector.
+Summer research project on waveform analysis and characterisation of a μ-RWELL gaseous detector, including an amplitude distribution study under different experimental conditions.
 
 [View report](TACTIC_muRWELL_report.pdf)
 
